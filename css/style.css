@@ -69,6 +69,10 @@ a {
 	text-decoration: none;
 }
 
+.information {
+	margin: 128px;
+}
+
 .information_main_text, .quote_text {
 	font-size: 36px;
 	color: #222222;
@@ -98,16 +102,33 @@ a {
 	height: 200px;
 }
 
-.quote_content {	
+.quote {
 	background-color: #F4D6D6;
+	padding: 128px;
+	/* display: flex; */
+}
+
+.quote_content {	
+	display: flex;
+	flex-direction: column;
 }
 
 .quote_text {
+	padding: 0 64px 0 64px;
 	font-weight: 300;
+}
+
+.quote_author {
+	align-self: flex-end;
+	font-weight: 900;
+	font-size: 24px;
 }
 
 .call_to_action_content {
 	background-color: #BC002D;
+	border-radius: 16px;
+	margin: 64px;
+	padding: 32px;
 }
 
 .sign_up_button {
@@ -115,8 +136,8 @@ a {
 	border: 1px solid white;
 	color: white;
 	border-radius: 8px;
-	padding: 12px 16px;
-	font-family: 'Poppins';
+	padding: 8px 32px;
+	font: inherit;
 	font-size: 16px;
 	font-weight: 900;
 	margin-top: 16px;
@@ -133,4 +154,5 @@ footer {
 	justify-content: center;
 	align-items: center;
 	color: #FAFAFA;
+	padding: 16px;
 }
