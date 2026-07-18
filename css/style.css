@@ -70,7 +70,7 @@ a {
 }
 
 .information {
-	margin: 128px;
+	margin: 64px 0 128px 0;
 }
 
 .information_main_text, .quote_text {
@@ -120,15 +120,31 @@ a {
 
 .quote_author {
 	align-self: flex-end;
+}
+
+.quote_author a {
+	color: #222222;
 	font-weight: 900;
 	font-size: 24px;
+}
+
+.call_to_action {
+	display: flex;
+	padding: 64px 0;
 }
 
 .call_to_action_content {
 	background-color: #BC002D;
 	border-radius: 16px;
-	margin: 64px;
-	padding: 32px;
+	padding: 64px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 128px;
+}
+
+.call_to_action_content .sign_up_button {
+	align-self: flex-start;
 }
 
 .sign_up_button {

@@ -5,6 +5,7 @@ The design was taken from the tutorial, but changed a little bit by me.
 
 
 Photos:
+
 Main photo of Kyoto city by Agathe (agathe_26) (https://unsplash.com/photos/person-riding-bike-on-street-2cdvYh6ULCs)
 
 Nature photo (https://unsplash.com/photos/green-trees-on-brown-soil-NWleDEFmYDg)
