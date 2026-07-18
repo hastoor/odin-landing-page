@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Poppins';
+	display: flex;
+	flex-direction: column;
+}
+
+header {
+	background-color: #1f2937;
+	/* display: flex; */
+}
+
+.hero_header {
+	font-size: 24px;
+	color: #f9faf8;
+}
+
+.hero_main_text {
+	font-size: 48px;
+	color: #f9faf8;
+	font-weight: 900;
+}
+
+.hero_secondary_text, a {
+	font-size: 18px;
+}
+
+.information_main_text, .quote_text {
+	font-size: 36px;
+	color: #1f2937;
+}
+
+footer {
+	background-color: #1f2937;
+}
+
+a {
+	text-decoration: none;
+}
+
+.hero_secondary_text, a {
+	color: #e5e7eb;
+}
+
+.quote_content {	
+	background-color: #e5e7eb;
+}
+
+.information_main_text {
+	font-weight: 900;
+}
+
+.quote_text {
+	font-weight: 300;
+}
+
+.call_to_action_content, .sign_up_button {
+	background-color: #3882f6;
+}
+
+.sign_up_button {
+	border: 1px solid white;
+	color: white;
+}
