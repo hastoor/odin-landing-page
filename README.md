@@ -26,11 +26,11 @@ https://unsplash.com/photos/person-riding-bike-on-street-2cdvYh6ULCs
 - Nature photo by Aaron Katz (unsplash)
 https://unsplash.com/photos/green-trees-on-brown-soil-NWleDEFmYDg
 
-Japanese women in kimono by Susann Schuster (unsplash)
+- Japanese women in kimono by Susann Schuster (unsplash)
 https://unsplash.com/photos/woman-in-kimono-standing-on-wooden-bridge-C_ULRNO8q0w
 
-Japan meals photo by Paulo Doi (unsplash)
+- Japan meals photo by Paulo Doi (unsplash)
 https://unsplash.com/photos/pasta-dish-in-stainless-steel-bowl-6uTQmtqcAzs
 
-Japan Tokyo photo by Jezael Melgoza (unsplash)
+- Japan Tokyo photo by Jezael Melgoza (unsplash)
 https://unsplash.com/photos/people-walking-on-road-near-well-lit-buildings-layMbSJ3YOE
