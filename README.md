@@ -17,6 +17,10 @@ The design was taken from the tutorial, but changed a little bit by me.
 - CSS3
 - Flexbox
 
+## Live demo
+
+The link to my webpage: https://hastoor.github.io/odin-landing-page/
+
 
 ## Photos:
 
